@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@1&family=Gemunu+Libre:wght@800&display=swap');
+
+html {
+    background: linear-gradient(180deg, rgb(255, 0, 0), rgb(0, 0, 0));
+}
+
+body {
+    font-size: 18px;
+    font-family: 'ABeeZee', sans-serif;
+    line-height: 1.5rem;
+    margin: 1.75rem;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    font-family: 'Gemunu Libre', sans-serif;
+    border: 1rem solid black;
+    padding: 2.75rem;
+    margin-left: 8rem;
+    margin-right: 8rem;
+}
+
+.box {
+    background-color: rgb(255, 187, 0);
+    border: .5rem double rgb(38, 0, 255); 
+    padding: 1rem;
+    margin-left: 8rem;
+    margin-right: 8rem;
+}
+
+.innerbox {
+    border: 2px dashed rgb(0,0,0);
+    padding: 2rem;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
